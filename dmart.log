@@ -1,0 +1,25 @@
+2025-05-09 09:52:23,308 - INFO - Customer data loaded successfully
+2025-05-09 09:52:24,282 - INFO - Product data loaded successfully
+2025-05-09 09:52:25,218 - INFO - Sales data loaded successfully
+2025-05-09 09:52:25,219 - INFO - Customer DataFrame
+2025-05-09 09:52:25,694 - INFO - Products DataFrame
+2025-05-09 09:52:26,142 - INFO - Sales DataFrame
+2025-05-09 09:53:01,177 - INFO - Duplicates removed successfully
+2025-05-09 09:53:07,198 - INFO - Data types corrected successfully
+2025-05-09 09:53:20,020 - INFO - Null values identified successfully
+2025-05-09 09:53:29,145 - INFO - Null values removed successfully
+2025-05-09 09:53:34,442 - INFO - Column names renamed successfully
+2025-05-09 09:53:45,794 - INFO - Invalid dates identified successfully
+2025-05-09 09:53:55,225 - INFO - Missing values filled successfully
+2025-05-09 09:54:06,052 - INFO - Dataframes joined successfully
+2025-05-09 09:54:17,878 - INFO - Temporary views created successfully
+2025-05-09 09:54:28,078 - INFO - Query 1 executed successfully
+2025-05-09 09:54:42,380 - INFO - Query 2 executed successfully
+2025-05-09 09:55:03,373 - INFO - Query 4 executed successfully
+2025-05-09 09:55:25,729 - INFO - Query 3 executed successfully
+2025-05-09 09:55:38,506 - INFO - Query 5 executed successfully
+2025-05-09 09:55:50,447 - INFO - Query 6 executed successfully
+2025-05-09 09:56:05,006 - INFO - Query 7 executed successfully
+2025-05-09 09:56:14,679 - INFO - Query 8 executed successfully
+2025-05-09 09:56:26,397 - INFO - Query 9 executed successfully
+2025-05-09 09:56:39,615 - INFO - Query 10 executed successfully
