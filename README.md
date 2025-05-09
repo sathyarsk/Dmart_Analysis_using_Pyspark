@@ -9,4 +9,4 @@ Handled the missing values appropriately.
 Ensured the datatypes are correctly set for each column.
 Joined the dataframes on relevant keys(Product ID and Customer ID).
 Wrote a Pyspark code for analytical purpose.
-Run the queries.
+Ran the queries.
